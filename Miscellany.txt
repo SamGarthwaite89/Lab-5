@@ -1,0 +1,6 @@
+For lisense we chose the basic MIT lisense and used that because it the the main go to for a lisense file and 
+serves the purpose of a lisense well. 
+
+For the code of conduct file we used the github code of conduct, because it covers all that we would want to
+be stated.
+
