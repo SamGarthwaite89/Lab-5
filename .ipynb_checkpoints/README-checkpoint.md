@@ -6,4 +6,3 @@ This program takes a name and a hobby as input, and outputs `{Name} likes {hobby
 - Sam Garthwaite
 - Carson White
 - Richie Goulazian
-- Crystal Li
